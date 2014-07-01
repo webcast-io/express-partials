@@ -10,6 +10,7 @@
     "node": "*"
   },
   "dependencies": {
+    "underscore": "^1.6.0"
   },
   "devDependencies": {
     "express": "3.0.0",
